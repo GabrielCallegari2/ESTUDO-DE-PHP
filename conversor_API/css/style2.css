@@ -1,0 +1,17 @@
+
+
+body{
+    background-color: #fff;
+}
+h1{
+   color: #020305;
+   text-align: center;
+}
+p{
+    background-color: #269199;
+    padding: 18px;
+    border-radius: 7px;
+    color: azure;
+    font-size: 30px;
+    box-shadow: 1px 1px 10px #1e6f75;
+}
